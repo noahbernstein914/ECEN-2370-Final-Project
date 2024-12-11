@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gamedriver.h": "c",
+        "shape.h": "c",
+        "board.h": "c",
+        "scheduler.h": "c"
+    }
+}

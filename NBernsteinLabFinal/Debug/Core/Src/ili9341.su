@@ -1,0 +1,16 @@
+../Core/Src/ili9341.c:53:6:ili9341_Init	8	static
+../Core/Src/ili9341.c:183:6:ili9341_DisplayOn	8	static
+../Core/Src/ili9341.c:194:6:ili9341_DisplayOff	8	static
+../Core/Src/ili9341.c:205:6:ili9341_Write_Reg	16	static
+../Core/Src/ili9341.c:215:6:ili9341_Send_Data	16	static
+../Core/Src/ili9341.c:226:10:ili9341_ReadData	16	static
+../Core/Src/ili9341.c:237:13:SPI_Init	8	static
+../Core/Src/ili9341.c:275:17:SPI_Read	24	static
+../Core/Src/ili9341.c:296:13:SPI_Write	24	static
+../Core/Src/ili9341.c:313:13:SPI_Error	8	static
+../Core/Src/ili9341.c:326:13:SPI_MspInit	48	static
+../Core/Src/ili9341.c:350:6:LCD_IO_Init	40	static
+../Core/Src/ili9341.c:394:6:LCD_IO_WriteData	16	static
+../Core/Src/ili9341.c:410:6:LCD_IO_WriteReg	16	static
+../Core/Src/ili9341.c:429:10:LCD_IO_ReadData	24	static
+../Core/Src/ili9341.c:456:6:LCD_Delay	16	static

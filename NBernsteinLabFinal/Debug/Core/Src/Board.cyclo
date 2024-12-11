@@ -1,0 +1,3 @@
+../Core/Src/Board.c:9:7:boardInit	3
+../Core/Src/Board.c:24:10:getColorFromChar	9
+../Core/Src/Board.c:49:6:drawBoard	5

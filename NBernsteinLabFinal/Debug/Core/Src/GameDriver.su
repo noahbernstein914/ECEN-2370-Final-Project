@@ -1,0 +1,3 @@
+../Core/Src/GameDriver.c:4:6:gameLoop	536	static
+../Core/Src/GameDriver.c:84:6:endScreen	40	static
+../Core/Src/GameDriver.c:137:6:titleScreen	8	static
